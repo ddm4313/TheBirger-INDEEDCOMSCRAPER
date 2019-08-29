@@ -6,3 +6,5 @@ It will scrape the employer & the job title ofcourse. It will scrape until the b
 Here's the look. <img src="https://i.imgur.com/0sRqKaB.png"> </img>
 
 It's a very simple design, but it works great, and very easy for the user to use.
+
+<h2> Page Break (i.e Page 50 = 5, 60 = 6, 120, 12)
